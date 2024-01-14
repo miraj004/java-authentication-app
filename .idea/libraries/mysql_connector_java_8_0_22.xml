@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="mysql-connector-java-8.0.22">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/drivers/mysql-connector-java-8.0.22.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/rs2xml.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="jar://$PROJECT_DIR$/drivers/rs2xml.jar!/" recursive="false" />
+  </library>
+</component>
